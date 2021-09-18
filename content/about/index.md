@@ -2,7 +2,9 @@
 title: 'About Me'
 avatar: './me.jpg'
 skills:
+  - Typescript
   - JavaScript (ES6+)
+  - Python
   - React.js.
   - Gatsby.js
   - Next.js

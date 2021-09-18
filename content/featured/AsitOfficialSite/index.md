@@ -1,5 +1,5 @@
 ---
-date: '2'
+date: '3'
 title: 'ASIT Official Website'
 cover: './demo.png'
 github: 'https://github.com/rahi-khan/asit-website'

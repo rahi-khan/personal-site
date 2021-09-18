@@ -10,7 +10,7 @@ module.exports = {
   location: 'Dhaka, Bangladesh',
   email: 'rahikhan360@gmail.com',
   github: 'https://github.com/rahi-khan',
-  twitterHandle: '@misteranmol',
+  twitterHandle: '@rahikhan_dev',
   socialMedia: [
     {
       name: 'GitHub',
@@ -29,7 +29,7 @@ module.exports = {
       url: 'https://twitter.com/rahikhan_dev',
     },
   ],
-  lastUpdated: '04-Feb-2021',
+  lastUpdated: '19-Sept-2021',
 
   navLinks: [
     {
